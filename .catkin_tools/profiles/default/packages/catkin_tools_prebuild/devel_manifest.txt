@@ -1,9 +1,0 @@
-/home/master/code_info/ros_tools/build/catkin_tools_prebuild
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/setup.bash /home/master/code_info/ros_tools/devel/./setup.bash
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/env.sh /home/master/code_info/ros_tools/devel/./env.sh
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/setup.zsh /home/master/code_info/ros_tools/devel/./setup.zsh
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/_setup_util.py /home/master/code_info/ros_tools/devel/./_setup_util.py
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/setup.sh /home/master/code_info/ros_tools/devel/./setup.sh
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake /home/master/code_info/ros_tools/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake /home/master/code_info/ros_tools/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
-/home/master/code_info/ros_tools/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc /home/master/code_info/ros_tools/devel/lib/pkgconfig/catkin_tools_prebuild.pc
