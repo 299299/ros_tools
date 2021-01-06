@@ -6,7 +6,8 @@
     https://github.com/ros/ros_comm/tree/noetic-devel/tools/rosbag
 
     while rosbag playing is paused, you can use command line to jump to the next topic by name
-    ```sh
+
+    ```
     rosservice call /rosbag/jump_to_next_topic your_topic_name
     ```
 
