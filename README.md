@@ -1,6 +1,4 @@
-# A Fork of Fork of openpilot
-
-some addition tools made for ROS, based on ros1 kinectic
+# some addition tools made for ROS, based on ros1 kinectic
 
 ## Additional Features
 
