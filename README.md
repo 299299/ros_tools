@@ -15,7 +15,7 @@ image if you are debuging a sensor fusion module, you can jump to time of the se
 
 
 ### various rviz tools
-[![](https://img.youtube.com/vi/rxTK5McUPA4/0.jpg)](https://www.youtube.com/watch?v=TfcgUhe6AFw)
+[![](https://img.youtube.com/vi/TfcgUhe6AFw/0.jpg)](https://www.youtube.com/watch?v=TfcgUhe6AFw)
 
 
 
