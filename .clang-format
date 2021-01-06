@@ -1,5 +1,4 @@
 ---
-# For changes please contact lixin2@csvw.com
 Language: Cpp
 BasedOnStyle: Google
 AccessModifierOffset: -2
